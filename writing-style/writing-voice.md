@@ -1,6 +1,6 @@
 ---
 name: slow-morocco-voice
-description: Write in the Slow Morocco editorial voice — gossip not lessons, tableau openings, specific facts, half-open doors. Use when drafting any Slow Morocco content: wiki entries, book entries, free essays, the letter, app text, marketing copy, sale page descriptions, or any reader-facing prose for slowmorocco.com or downstream products. Apply when the writer is Jacqueline Ng, when the publication is Slow Morocco, or when content is being prepared for the broader Dancing with Lions ecosystem in cultural-decoding register. Trigger this whenever the request involves writing about Moroccan culture, architecture, history, food, music, sacred practice, herbalism, language, or any related subject in editorial form.
+description: "Write in the Slow Morocco editorial voice — gossip not lessons, tableau openings, specific facts, half-open doors. Use when drafting any Slow Morocco content such as wiki entries, book entries, free essays, the letter, app text, marketing copy, sale page descriptions, or any reader-facing prose for slowmorocco.com or downstream products. Apply when the writer is Jacqueline Ng, when the publication is Slow Morocco, or when content is being prepared for the broader Dancing with Lions ecosystem in cultural-decoding register. Trigger this whenever the request involves writing about Moroccan culture, architecture, history, food, music, sacred practice, herbalism, language, or any related subject in editorial form."
 ---
 
 # Slow Morocco Voice
